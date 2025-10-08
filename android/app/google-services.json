@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88088570075",
+    "project_id": "keypocket-da8ee",
+    "storage_bucket": "keypocket-da8ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88088570075:android:13ae90a03190f4a56ac4fe",
+        "android_client_info": {
+          "package_name": "com.example.keypocket1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcbtXKz8Hv4umIOsJDWElqPX3wfpwYQHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
